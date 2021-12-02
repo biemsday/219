@@ -48,7 +48,9 @@ h1 {
 }
 
 div.head {
-    margin-top: 50%;
+    position: absolute;
+    top: 50%;
+    margin-top: -75%;
 }
 
 div.title {
